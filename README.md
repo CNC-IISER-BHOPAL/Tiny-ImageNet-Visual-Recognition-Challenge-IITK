@@ -1,4 +1,4 @@
-# Custom VGG16 Model for TinyImageNet Classification
+# Custom VGG16 Model for Tiny ImageNet Classification
 ## Abstract
 The dataset for this project is a small scale version of the ImageNet Large Scale Visual Recognition Challenge (ILSVRC). In this project, I approached the image classification problem by using transfer learning on custom VGG16 CNN architecture. I have also applied data augmentation methods to training images, hoping to artificially create variations that help the model to generalize better. The model performed well and achieved 56.23% accuracy on the validation set.
 ## Dataset

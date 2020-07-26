@@ -11,4 +11,4 @@ A detailed report of this project is available <a href="https://drive.google.com
 ## Authors
 * Ayush Dabra
 ## Acknowledgments
-I express my sincere thanks to Dr. Laxmidhar Behera, who provided me with the opportunity to work on this project. I pay my deep sense of gratitude to Dr. Vipul Arora, without whose valuable guidance and supervision the project couldn't have been completed.
+I express my sincere thanks to Dr. Laxmidhar Behera, who provided me with the opportunity to work on this project. I pay my deep sense of gratitude to Dr. Vipul Arora, without his valuable guidance and supervision the project couldn't have been completed.

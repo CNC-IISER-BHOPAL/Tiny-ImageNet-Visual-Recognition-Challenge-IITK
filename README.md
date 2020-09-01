@@ -7,7 +7,7 @@ The dataset can be downloaded from <a href="https://drive.google.com/file/d/116K
 ## Getting Started
 The `custom_vgg16_for_tiny_imagenet.ipynb` notebook can be directly run on Kaggle after loading the dataset in the Kaggle Kernel. Use Kaggle's Nvidia Tesla P100 GPU for faster training and evaluation.
 
-###Pre-Requisites
+### Pre-Requisites
 For running the notebook on your local machine, following pre-requisites must be satisfied:
 - Python3
 - NumPy
@@ -15,7 +15,7 @@ For running the notebook on your local machine, following pre-requisites must be
 - Matplotlib
 - Tensorflow 2.X
 - Keras
-###Installing
+### Installing
 After ensuring you have the above mentioned versions of Tensorflow and Python. The other two prerequisites can be installed in the notebook as:
 
 Keract:

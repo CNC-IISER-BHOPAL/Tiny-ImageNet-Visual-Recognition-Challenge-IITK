@@ -22,7 +22,7 @@ Keract:
 ```Python
 !pip install keract
 ```
-Keras-Contrib
+Keras-Contrib:
 ```
 !pip install git+https://github.com/keras-team/keras-contrib.git
 ```

@@ -32,5 +32,5 @@ A detailed report of this project is available <a href="https://drive.google.com
 ## Acknowledgments
 I express my sincere thanks to Dr. Laxmidhar Behera, who provided me with the opportunity to work on this project. I pay my deep sense of gratitude to Dr. Vipul Arora, without his valuable guidance and supervision the project couldn't have been completed.
 ## Third Party Libraries
-- Keract by Philippe Rémy (@github/philipperemy) used under the IT LicenseCopyright (c) 2019.
+- Keract by Philippe Rémy (@github/philipperemy) used under the IT License Copyright (c) 2019.
 - Keras-Contrib by Keras (@github.com/keras-team), now deprecated and managed by Keras Community Contributors, used under MIT License Copyright (c) 2017 Fariz Rahman.

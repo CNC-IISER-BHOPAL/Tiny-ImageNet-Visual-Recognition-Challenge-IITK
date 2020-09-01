@@ -8,12 +8,12 @@ The `custom_vgg16_for_tiny_imagenet.ipynb` notebook can be directly run on Kaggl
 The dataset can be downloaded from <a href="https://drive.google.com/file/d/116KlGk5ExxS5QCaIQBXRxWCC4SzNjYVB/view?usp=sharing">here.</a>
 
 If you want to run it on your local machine, then you must have Python3 installed on your system alongwith the following libraries:
--NumPy
--Pandas
--Matplotlib
--Tensorflow
--Keras
--Keract
+- NumPy
+- Pandas
+- Matplotlib
+- Tensorflow
+- Keras
+- Keract
 ## Detailed Report
 A detailed report of this project is available <a href="https://drive.google.com/file/d/1teDoAIaFQiQ5u_-ULcGo4QIi9Qxezqui/view?usp=sharing">here.</a>
 ## Authors
